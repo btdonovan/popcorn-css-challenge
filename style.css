@@ -27,7 +27,8 @@ Main background - #D4A76A*/
   display: table-cell;
 }
 
-.card-content {
+h3 {
+  text-align: center;
 }
 
 .row {
