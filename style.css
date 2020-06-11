@@ -16,7 +16,7 @@ Main background - #D4A76A*/
 
 .card {
   background-color: white;
-  box-shadow: 0 0.1em 8px 0.1em; black;
+  box-shadow: 0 0.1em 16px 0; black;
   transition: 0.3s;
   display: table-cell;
   padding: 1em;
