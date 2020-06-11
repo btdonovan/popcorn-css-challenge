@@ -8,28 +8,48 @@ Main background - #D4A76A*/
   color: white;
   background-color: #553100;
   text-align: center;
+  padding: 0.25em;
 }
 
 .card {
   background-color: white;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
+  display: table-cell;
+  padding: 1em;
 }
 
-.multi-column {
-  column-count: 3;
+.header-card {
+  display: table-cell;
+
+}
+
+.card-content {
+}
+
+.row {
+  display: table;
+  border-spacing: 1em;
+  width: 100%;
+}
+
+#nav {
+  width: 10%;
 }
 
 body {
   margin: 0em;
+  background-color: #D4A76A;
 }
 header {
   color: #553100;
   background-color: #FFDBAA;
-  border-bottom: 2px;
+  border-bottom: 5px;
   border-color: black;
 }
 
 main {
-  background-color: #D4A76A;
+  
+  border-top: 5px;
+  border-color: black;
 }
