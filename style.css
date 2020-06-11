@@ -20,6 +20,7 @@ Main background - #D4A76A*/
   transition: 0.3s;
   display: table-cell;
   padding: 1em;
+  width: 33%;
 }
 
 .header-card {
