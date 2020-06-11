@@ -9,6 +9,9 @@ Main background - #D4A76A*/
   background-color: #553100;
   text-align: center;
   padding: 0.25em;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .card {
@@ -45,12 +48,8 @@ body {
 header {
   color: #553100;
   background-color: #FFDBAA;
-  border-bottom: 5px;
-  border-color: black;
+  border-bottom: 1px solid black;
 }
 
 main {
-  
-  border-top: 5px;
-  border-color: black;
 }
