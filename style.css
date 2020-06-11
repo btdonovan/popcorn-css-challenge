@@ -6,7 +6,7 @@ Main background - #D4A76A*/
 
 .button {
   color: white;
-  background-color: #553100;
+  background-color: #805215;
   text-align: center;
   padding: 0.25em;
   border: 1px;
@@ -35,6 +35,7 @@ Main background - #D4A76A*/
   display: table;
   border-spacing: 1em;
   width: 100%;
+  align-content: center;
 }
 
 #nav {
